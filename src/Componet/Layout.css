@@ -1,0 +1,16 @@
+.header-btn {
+    background-color: blue;
+    color: white;
+    padding: 8px 38px;
+    border-width: 0px;
+    font-family: 'REM', sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    margin: 10px 0px;
+}
+
+.header-btn:hover {
+    box-shadow: 0 0 20px rgba(104, 85, 224, 0.6);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=REM:wght@200;300;400;500;600;700;800;900&display=swap');

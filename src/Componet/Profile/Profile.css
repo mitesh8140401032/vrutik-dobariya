@@ -1,0 +1,36 @@
+.profile {
+    box-shadow: 5px 6px 25px hsla(0, 0%, 6%, .15);
+    padding: 30px;
+    border-radius: 25px;
+    margin-right: 50px;
+}
+
+.editbtn {
+    background-color: #12518b;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border: none;
+    text-align: center;
+    padding: 0px;
+    font-size: 25px;
+    border-radius: 9px;
+    transition-duration: 0.5s;
+}
+
+.editbtn:hover {
+    background-color: #2977ff;
+}
+
+.preview-image {
+    margin: 5px;
+
+}
+
+@media only screen and (max-width: 500px) {
+    .profile {
+        padding: 10px;
+        margin: 0px;
+        text-align: center;
+    }
+}

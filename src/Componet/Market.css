@@ -1,0 +1,23 @@
+/* ProductList.css */
+.product-card {
+    border: 1px solid #ccc;
+    /* padding: 10px; */
+    /* margin-bottom: 20px; */
+    text-align: center;
+}
+
+.anchor{
+    text-decoration: none;
+}
+
+.product-company {
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+.product-price {
+    color: green;
+}
+.images{
+    object-fit: cover;
+}
